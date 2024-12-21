@@ -1,5 +1,5 @@
 Professor : Paul Nguyen <br/>
-Student : Vagdevi Junnuri (014926366)
+Student : Vagdevi Junnuri (014926366) <br/>
 Course : CMPE 202 <br/>
 Project : Implement Gumball machine functionality<br/>
 
